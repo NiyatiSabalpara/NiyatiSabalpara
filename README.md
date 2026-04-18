@@ -27,10 +27,12 @@
 <img src="https://img.icons8.com/color/48/power-bi.png" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
 </p>
+<h3 align="center">📊 GitHub Stats</h3>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NiyatiSabalpara&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" height="170"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiyatiSabalpara&layout=compact&theme=radical&langs_count=6&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiyatiSabalpara&layout=compact&theme=radical&langs_count=6&hide=jupyter%20notebook&hide_border=true" height="170"/>
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NiyatiSabalpara&theme=radical" />
