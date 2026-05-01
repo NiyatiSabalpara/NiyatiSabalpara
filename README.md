@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Niyati Sabalpara 😊</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **c++ and python**
+- 🌱 I’m currently learning **c++, python and JAVA**
 
 - 📫 How to reach me **niyati2104sabalpara@gmail.com** **nsabalpara2004@gmail.com**
 
